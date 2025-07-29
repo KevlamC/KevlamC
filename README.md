@@ -9,7 +9,7 @@
 </div>
 
 🧑‍💻 **Software Engineer Intern at AlphaWave**  
-🧑‍🎓 Studied Computer Science at the University of Calgary (Canada)  
+🧑‍🎓 Studying Computer Science at the University of Calgary (Canada)  
 🤖 Experienced in building full-stack applications powered by AI and data  
 🚀 Currently focused on system design, scalability, and machine learning  
 🧠 Interests include reading, strength training, exploring complex technical topics, and connecting with people  
