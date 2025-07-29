@@ -8,13 +8,13 @@
 
 </div>
 
-🧑‍💻 **Software Engineer Intern**  
+🧑‍💻 **Software Engineer Intern at AlphaWave**  
 🧑‍🎓 Studied Computer Science at the University of Calgary (Canada)  
 🤖 Experienced in building full-stack applications powered by AI and data  
 🚀 Currently focused on system design, scalability, and machine learning  
 🧠 Interests include reading, strength training, exploring complex technical topics, and connecting with people  
 
-📎 [Portfolio Website](https://kevlam-chundawat-portfolio.netlify.app/)
+📎 [Portfolio Website](https://kevlamc.github.io/KevlamC-Portfolio-Website/)
 
 ---
 
