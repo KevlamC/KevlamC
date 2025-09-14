@@ -8,11 +8,10 @@
 
 </div>
 
-🧑‍💻 **Software Engineer Intern at AlphaWave**  
+🧑‍💻 **Software Security Research Assistant at University of Calgary**  
 🧑‍🎓 Studying Computer Science at the University of Calgary (Canada)  
 🤖 Experienced in building full-stack applications powered by AI and data  
-🚀 Currently focused on system design, scalability, and machine learning  
-🧠 Interests include reading, strength training, exploring complex technical topics, and connecting with people  
+🚀 Currently focused on system design, software security, scalability, and machine learning   
 
 📎 [Portfolio Website](https://kevlamc.github.io/KevlamC-Portfolio-Website/)
 
