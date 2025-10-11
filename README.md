@@ -8,7 +8,7 @@
 
 </div>
 
-🧑‍💻 **Software Security Research Assistant at University of Calgary**  
+🧑‍💻 **Software Engineering Intern at University of Calgary**  
 🧑‍🎓 Studying Computer Science at the University of Calgary (Canada)  
 🤖 Experienced in building full-stack applications powered by AI and data  
 🚀 Currently focused on system design, software security, scalability, and machine learning   
